@@ -2,9 +2,19 @@
 <h3 align="center">Junior Software Engineer</h3>
 
 <p align="center">
-  🌐 <a href="https://brunococielli.com">Portfolio</a> |
+  🌐 <a
+        href="https://brunococielli.com"
+        target="_blank"
+        rel="noopener noreferrer">
+        Portfolio
+      </a> |
   📧 cociellited@gmail.com |
-  💼 <a href="https://linkedin.com/bruno-cocielli">LinkedIn</a>
+  💼 <a 
+        href="https://www.linkedin.com/in/bruno-cocielli-075160363/" 
+        target="_blank" 
+        rel="noopener noreferrer">
+        LinkedIn
+      </a>
 </p>
 
 ---

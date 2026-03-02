@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Bruno Cocielli 👋</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=brunococielli&show_icons=true&theme=tokyonight" />
 <h3 align="center">Junior Software Engineer</h3>
 
 <p align="center">

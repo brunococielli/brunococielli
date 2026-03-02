@@ -21,12 +21,23 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend          ### Backend           ### Tools                         
-- JavaScript          - Node.js             - Git
-- React.js            - Express             - GitHub
-- HTML                - Prisma              - VScode
-- CSS                 - PostgreSQL
+### Frontend                              
+- JavaScript         
+- React.js           
+- HTML               
+- CSS                
 
+### Backend
+- Node.js
+- Express
+- Prisma
+- PostgreSQL
+
+### Tools 
+- Git
+- GitHub
+- VScode
+  
 ---
 
 ## 💼 Experience

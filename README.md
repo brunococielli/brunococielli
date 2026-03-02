@@ -24,8 +24,6 @@
 - 💻 Junior Web Developer focused on full-stack JavaScript
 - 🔥 Solved 60+ LeetCode problems (Data Structures & Algorithms)
 - 🛠️ Experience building frontend and backend projects
-- 🌍 Based in Brazil
-- 🇯🇵 Studying Japanese
 
 ---
 

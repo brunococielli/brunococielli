@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Bruno Cocielli 👋</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=brunococielli&show_icons=true&theme=tokyonight" />
 <h3 align="center">Junior Software Engineer</h3>
 
 <p align="center">
@@ -22,22 +21,11 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- JavaScript
-- React.js
-- HTML
-- CSS
-
-### Backend
-- Node.js
-- Express
-- Prisma
-- PostgreSQL
-
-### Tools
-- Git
-- GitHub
-- VScode
+### Frontend          ### Backend           ### Tools                         
+- JavaScript          - Node.js             - Git
+- React.js            - Express             - GitHub
+- HTML                - Prisma              - VScode
+- CSS                 - PostgreSQL
 
 ---
 

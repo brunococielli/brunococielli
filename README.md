@@ -1,7 +1,7 @@
 Hey!
-I'm a Junior Software Enginner
+I'm a Junior Software Engineer.
 
 I made a cool website, check it out! 
-<a href="brunococielli.com target="_blank">
+<a href="https://brunococielli.com" target="_blank">
   brunococielli.com
 </a>
